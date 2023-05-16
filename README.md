@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![contacts-app](https://github.com/serifetoy/Contacts-App/assets/92857592/84efa074-0ad0-4317-b657-057485f18a22)
+
 ## Available Scripts
 
 In the project directory, you can run:
